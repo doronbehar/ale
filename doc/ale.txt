@@ -327,6 +327,7 @@ CONTENTS                                                         *ale-contents*
     tex...................................|ale-tex-options|
       chktex..............................|ale-tex-chktex|
       lacheck.............................|ale-tex-lacheck|
+      textlint............................|ale-tex-textlint|
     texinfo...............................|ale-texinfo-options|
       write-good..........................|ale-texinfo-write-good|
     text..................................|ale-text-options|
